@@ -33,6 +33,19 @@
 
 ---
 
+## ⚙️ Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,github" height="70" />
+</p>
+
+- Visual Studio Code  
+- Git & GitHub  
+- Android Studio  
+- Flutter DevTools  
+
+---
+
 ## 📂 Projects
 
 ### 🍏 Diet App – Personalized Diet Planner  
