@@ -1,8 +1,8 @@
-👩‍💻 Mothukuri Sahithi
-🚀 About Me
+# 👩‍💻 Mothukuri Sahithi
+## 🚀 About Me
 
 🎓 B.Tech in Electronics & Communication Engineering (2021–2025)
-SRK Institute of Engineering College, Vijayawada
+SRK Institute of Technology Engineering College, Vijayawada
 
 📱 Flutter Developer | Mobile App Developer
 
