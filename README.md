@@ -1,7 +1,7 @@
 #💙 Mothukuri Sahithi
 Flutter Developer • Mobile App Developer
 <p align="center"> <img src="https://github.com/flutter/website/blob/main/src/_assets/image/flutter-lockup-bg.jpg?raw=true" width="80%" /> </p>
-##💫 About Me
+#💫 About Me
 
 🎓 B.Tech – Electronics & Communication Engineering (2021–2025)
 
