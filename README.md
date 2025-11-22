@@ -1,77 +1,71 @@
-# 👩‍💻 Mothukuri Sahithi
-## 🚀 About Me
+👩‍💻 Mothukuri Sahithi
+🚀 About Me
 
 🎓 B.Tech in Electronics & Communication Engineering (2021–2025)
-SRK Institute of Technology Engineering College, Vijayawada
 
 📱 Flutter Developer | Mobile App Developer
 
-💡 Passionate about building cross-platform apps, clean UI/UX, and solving real-world problems.
+💡 Passionate about building cross-platform apps, UI/UX, and problem-solving
 
-🔍 Interested in App Development, UI/UX, APIs, Cloud & AI-powered apps
+🔍 Interested in APIs, Mobile UI/UX, Cloud Integration, and AI-powered apps
 
 🛠️ Tech Stack
-📱 Flutter & Mobile Development
+📱 Flutter & Mobile App Development
 <p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart" height="60"/> </p>
 
-Flutter Widgets, Layouts
+Flutter Widgets & Layouts
 
 GetX State Management
 
 Responsive UI & Themes
 
-REST APIs & Authentication
-
-Android Studio | VS Code
-
-💻 Additional Skills
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js" height="60"/> </p>
+API Integration
 
 Debugging & Testing
 
-UI/UX Design Principles
-
-Problem-solving
+Android Studio | VS Code
 
 🗄 Databases
 <p align="center"> <img src="https://skillicons.dev/icons?i=firebase,mysql" height="60"/> </p>
 
-Firebase Firestore / Realtime DB
+Firebase Firestore / Realtime Database
 
-SQL (CRUD operations, Filtering, Queries)
+MySQL
+
+CRUD Operations & Queries
 
 📂 Projects
-🍏 Diet App – Personalized Diet Plan Generator (Flutter)
+🍏 Diet App – Personalized Diet Planner (Flutter)
 
-🖥 Tech: Flutter, Dart, API Integration
+🖥️ Tech: Flutter, Dart, API Integration
 
 Published on Google Play Store
 
-Generates personalized nutrition & diet plans
+Generates personalized diet & nutrition plans
 
-Designed responsive UI using Flutter Widgets
+Designed fully responsive UI
 
-Implemented authentication & API handling
+Implemented authentication & backend integration
 
-🏢 MH MD/BR Complaints – Maintenance Complaint Management Web App
+🏢 MH MD/BR Complaints – Maintenance Complaint Portal
 
-🖥 Tech: HTML, CSS, JavaScript
+🖥️ Tech: Flutter / Web App Structure
 
-Built a platform for reporting building & maintenance issues
+Interface for reporting & tracking maintenance issues
 
-Implemented complaint submission, tracking & admin dashboard
+Admin & user dashboards
 
-Improved workflow and communication between users & admin
+Complaint submission, tracking & updates
 
 🔢 SmartCalc – Flutter Calculator App
 
-🖥 Tech: Flutter, Dart
+🖥️ Tech: Flutter, Dart
 
-Fully functional calculator with smooth UI
+Fully functional calculator
 
-Real-time calculations and optimized state management
+Smooth UI and real-time calculations
 
-Responsive design for all screen sizes
+GetX-based responsive state management
 
 🎓 Certifications
 
@@ -85,11 +79,11 @@ Responsive design for all screen sizes
 
 🏆 Achievements
 
-🚀 Built and deployed a Flutter app on Google Play Store
+🚀 Published a Flutter app on the Play Store
 
-⭐ Hands-on experience in real-time projects & internships
+⭐ Completed real-time internships in Android & AI/ML
 
-💡 Strong app UI/UX development skills
+💡 Experience in UI/UX & Mobile App Architecture
 
 📊 GitHub Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mothukurisahithi&show_icons=true&theme=radical" height="160px"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mothukurisahithi&theme=radical" height="160px"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mothukurisahithi&layout=compact&theme=radical" height="160px"/> </p>
