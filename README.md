@@ -1,96 +1,90 @@
-#💙 Mothukuri Sahithi
-Flutter Developer • Mobile App Developer
-<p align="center"> <img src="https://github.com/flutter/website/blob/main/src/_assets/image/flutter-lockup-bg.jpg?raw=true" width="80%" /> </p>
-#💫 About Me
+<!-- DARK PREMIUM FLUTTER THEME -->
 
-🎓 B.Tech – Electronics & Communication Engineering (2021–2025)
+<h1 align="center">💙 Mothukuri Sahithi</h1>
+<h3 align="center">Flutter Developer • Mobile App Developer</h3>
 
-📱 Passionate Flutter Developer with strong UI/UX understanding
+---
 
-🚀 Love building clean, responsive and scalable mobile applications
+## 💫 About Me
+- 🎓 **B.Tech – Electronics & Communication Engineering (2021–2025)**
+- 📱 Passionate **Flutter Developer** focused on building beautiful apps
+- 🎨 Strong understanding of **UI/UX & animations**
+- 🚀 Love creating smooth, responsive mobile experiences
+- 🔍 Interested in **API Integration, Firebase, App Architecture**
+- 🌱 Exploring **advanced Flutter state management & animations**
 
-🔍 Interested in API Integration, App Architecture, Firebase & AI-powered apps
+---
 
-🌱 Currently improving advanced Flutter state management and animations
+## 🛠️ Tech Stack
 
-🛠️ Tech Stack
-📱 Flutter & Mobile Development
-<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart" height="70"/> </p>
+### 📱 Flutter & Mobile Development
+- Flutter Widgets, Layouts, Navigation  
+- GetX State Management  
+- Material UI / Responsive Design  
+- REST APIs, Authentication  
+- Debugging, Testing  
+- Android Deployment  
 
-Flutter Widgets & Layouts
+### 🗄️ Databases & Backend
+- Firebase Firestore / Realtime DB  
+- Firebase Authentication  
+- MySQL  
+- CRUD Operations  
 
-GetX State Management
+---
 
-Responsive UI & Material Design
+## 📂 Projects
 
-Authentication & REST APIs
+### 🍏 Diet App – Personalized Diet Planner  
+- Published on Google Play Store  
+- Generates custom diet plans  
+- API Integration + Authentication  
+- Responsive UI with Flutter  
 
-Debugging & Testing
+### 🏢 MH MD/BR Complaints – Maintenance Portal  
+- User + Admin dashboards  
+- Complaint submission + tracking  
+- Real-time updates  
 
-App Deployment (Android)
+### 🔢 SmartCalc – Flutter Calculator  
+- Minimal UI  
+- Real-time calculations  
+- GetX state management  
 
-🗄️ Databases & Backend
-<p align="center"> <img src="https://skillicons.dev/icons?i=firebase,mysql" height="70"/> </p>
+---
 
-Firebase Firestore / Realtime Database
+## 🏆 Achievements
+- 🚀 Published a Flutter app on Play Store  
+- ⭐ Built multiple UI-rich mobile apps  
+- 💡 Strong skills in UI/UX + problem-solving  
 
-Firebase Authentication
+---
 
-MySQL
+## 📊 GitHub Stats
 
-CRUD Operations & Optimized Queries
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mothukurisahithi&show_icons=true&theme=radical"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mothukurisahithi&theme=radical"/>
+</p>
 
-📂 Projects
-🍏 Diet App – Personalized Diet Planner (Flutter)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mothukurisahithi&layout=compact&theme=radical"/>
+</p>
 
-Published on Google Play Store
+---
 
-Generates customized nutrition & diet plans
+## 🌐 Connect With Me
 
-Implemented responsive UI using Flutter
+<p align="center">
+  <a href="mailto:mothukurisahithi08@gmail.com"><img src="https://img.shields.io/badge/Email-ff4b4b?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sahithimothukuri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/mothukurisahithi"><img src="https://img.shields.io/badge/HackerRank-00CC66?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+</p>
 
-Integrated authentication + APIs
+---
 
-Optimized overall user experience
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mothukurisahithi&label=Profile%20Views&color=blue&style=flat-square"/>
+</p>
 
-🏢 MH MD/BR Complaints – Maintenance Complaint Portal
-
-User & Admin dashboards
-
-Track building and maintenance complaints
-
-Interactive UI for issue updates & resolution
-
-🔢 SmartCalc – Flutter Calculator App
-
-Clean & minimal UI
-
-Real-time arithmetic calculations
-
-GetX for efficient state management
-
-🎓 Certifications
-
-📘 Flutter Development Course
-
-🧠 HackerRank — SQL
-
-🤖 Android Developer Virtual Internship — Google Developers (EduSkills)
-
-🧬 AI–ML Virtual Internship — Google Developers (EduSkills)
-
-🏆 Achievements
-
-🚀 Published Flutter app on Play Store
-
-⭐ Built multiple modern UI-based applications
-
-💡 Strong skills in UI/UX, problem-solving & mobile development
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mothukurisahithi&show_icons=true&theme=tokyonight" height="165px"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mothukurisahithi&theme=tokyonight" height="165px"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mothukurisahithi&layout=compact&theme=tokyonight" height="165px"/> </p>
-🌐 Connect With Me
-<p align="center"> <a href="mailto:mothukurisahithi08@gmail.com"><img src="https://img.shields.io/badge/Email-ff4b4b?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sahithimothukuri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.hackerrank.com/mothukurisahithi"><img src="https://img.shields.io/badge/HackerRank-00CC66?style=for-the-badge&logo=hackerrank&logoColor=white" /></a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mothukurisahithi&label=Profile%20Views&color=blue&style=flat-square" /> </p>
-
-✨ "The best way to predict the future is to build it."
+<p align="center">✨ <i>"The best way to predict the future is to build it."</i> ✨</p>
